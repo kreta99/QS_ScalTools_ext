@@ -1,0 +1,22 @@
+{
+  "name": "qlik-stex",
+  "version": "1.0.5",
+  "description": "Qlik Sense Scalability Tools extension for testing multi apps scenarions ex. saas",
+  "main": "app_gen.js",
+  "dependencies": {
+    "command-line-args": "^5.0.2",
+    "fs": "0.0.1-security",
+    "https": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "cat readme.md"
+  },
+  "keywords": [
+    "Qlik",
+    "Sense",
+    "Scalability"
+  ],
+  "author": "Qlik OEM Presales Team",
+  "license": "ISC"
+}
