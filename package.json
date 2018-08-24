@@ -1,5 +1,5 @@
 {
-  "name": "QS_ScalTools_ext",
+  "name": "qs_scaltools_ext",
   "version": "1.0.1",
   "description": "Qlik Sense Scalability Tools extension for testing multi apps scenarions ex. saas",
   "main": "app_gen.js",
